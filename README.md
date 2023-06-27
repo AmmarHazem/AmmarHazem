@@ -1,7 +1,7 @@
  ### Hello! My name is Ammar 👋
    I am a fullstack software engineer.
 
-   - 🔭 Working on multiple frontend and backend project using React and Nodejs
+   - 🔭 Love coding and technology
    - 🌱 Learning design patterns in depth
 
    ## 🌏 Get in Touch
