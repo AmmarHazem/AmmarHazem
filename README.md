@@ -1,25 +1,25 @@
  ### Hello World 👋
-    I am a fullstack software engineer.
+   I am a fullstack software engineer.
 
-    - 🔭 Working on multiple frontend and backend project using React and Nodejs
-    - 🌱 Learning design patterns in depth
-    <br>
+   - 🔭 Working on multiple frontend and backend project using React and Nodejs
+   - 🌱 Learning design patterns in depth
+   <br>
 
-    ## 🌏 Get in Touch
+   ## 🌏 Get in Touch
 
-    [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-hazem-06b658160/)
- 
-    [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aakira_97)
+   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammar-hazem-06b658160/)
 
-    <br>
-    <br>
+   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aakira_97)
 
-    ## 💻 Tech Stack:
-    <img align="left" alt="react" src="[https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)" />
+   <br>
+   <br>
 
-    <img align="left" alt="nodejs" src="[https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)" />
+   ## 💻 Tech Stack:
+   <img align="left" alt="react" src="[https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)" />
 
-    <img align="left" alt="medium" src="[https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)" />
+   <img align="left" alt="nodejs" src="[https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)" />
+
+   <img align="left" alt="medium" src="[https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)" />
 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
