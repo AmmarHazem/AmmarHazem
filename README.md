@@ -1,5 +1,5 @@
  ### Hello! My name is Ammar 👋
-   I am a Fullstack Software Engineer.
+   I am a Software Engineer.
 
    ## 🌏 Get in Touch
 
